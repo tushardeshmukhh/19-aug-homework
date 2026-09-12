@@ -5,3 +5,4 @@ I am learning Git and GitHub as part of my Data Analyst course.
 ## About
 
 This is my first practice project using Git and GitHub.
+ 
